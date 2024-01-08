@@ -1,4 +1,4 @@
-<img src="https://github.com/hd2s/hd2s/blob/main/banner.png"></img>
+<img src="https://github.com/hd2s/hd2s/blob/main/Banner2.png"></img>
 
 ## About Me 🤠
 

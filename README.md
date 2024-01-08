@@ -1,4 +1,4 @@
-<img src="https://github.com/hd2s/hd2s/blob/main/Blue%20Modern%20Company%20Slogan%20LinkedIn%20Banner.png"></img>
+<img src="https://github.com/hd2s/hd2s/blob/main/banner.png"></img>
 
 ## About Me
 
